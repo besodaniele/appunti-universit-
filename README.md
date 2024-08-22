@@ -23,6 +23,8 @@ Inoltre carico appunti dei corsi che ho seguito durante il mio periodo in erasmu
 - primo semestre
     - linguaggi e computabilità (TODO)
 - secondo semestre
+  - sistemi distribuiti
+  - per questo corso non ho preso appunti, ma ho svolto il progetto che trovate [qui](https://github.com/besodaniele/progettoSD2024)
     - probabilità e statistica per l’informatica
 
 ## 3° anno (2024-2025)
